@@ -1,0 +1,31 @@
+
+.picture{
+background-attachment: scroll;
+background-color: darkolivegreen;
+
+}
+
+.profile_img{
+max-width: 400px;
+max-height: 400px;
+align-content: center;
+background-color: black;
+}
+
+.section-primary{
+font-size: larger;
+text-shadow: darkgreen;
+
+}
+
+.section-secondary{
+float: left;
+border-style: groove;
+border-color: darkgreen;
+border-width: 20px;
+margin: 5%;
+top: 20px;
+padding: 20px;
+}
+
+
